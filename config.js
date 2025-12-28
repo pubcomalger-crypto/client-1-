@@ -5,8 +5,8 @@ const profileConfig = {
 
 
     name: "walid",
-    bio: "walid ",
-    profileImage: "https://i.ibb.co/NgKMhgMT/cocacola.jpg",
+    bio: "الطباعة و الاشهار ",
+    profileImage: "    profileImage: "https://i.ibb.co/WWsHmvVj/245386072-4647781595243911-4723399473753994969-n.jpg",
     
 
 
@@ -15,17 +15,17 @@ const profileConfig = {
 
     // Réseaux sociaux
     socialLinks: {
-        facebook: "https://www.facebook.com/share/16dysjBQvt/?mibextid=wwXIfr",
-        instagram: "https://www.instagram.com/riyadmahrez26.7?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-        tiktok: "https://www.tiktok.com/@chebkhaled?is_from_webapp=1&sender_device=pc",
-        whatsapp: "+213540253369",
-        telegram: "+213 562 33 14 08",
+        facebook: "https://www.facebook.com/share/17EffabvMS/",
+        instagram: "https://www.instagram.com/walidousayah?igsh=MXdjdHdnOXhnN3I4cw==",
+        tiktok: "https://www.tiktok.com/@walidousayah?_r=1&_t=ZS-92bJXIxj6kH",
+        whatsapp: "+213540846323",
+        telegram: "+213 540 84 63 23",
         linkedin: "daisyparkhouse",
         snapchat: "https://www.snapchat.com/@sheikh_tidiane?sender_web_id=792b2a4d-05d3-4e8f-a5e0-1aeb89eba722&device_type=desktop&is_copy_url=true",
-        email: "pubcom.alger@gmail.com",
+        email: "Tareksayah@yahoo.com",
         website: "https://www.youtube.com/",
-        maps: "https://share.google/T1z7NAFbftnLYNKZy",
-        phone: "+213658546209"
+        maps: "https://share.google/gR0Oa2ihaAvVDWe3h",
+        phone: "+213540846323"
     },
     
 
@@ -83,4 +83,5 @@ if (typeof module !== 'undefined' && module.exports) {
 } else {
     window.profileConfig = profileConfig;
 }
+
 
